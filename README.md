@@ -1,3 +1,3 @@
 # Gif expert App
 
-Este es mi repositorio de gif expert App hecho en React
+link of deployed App: https://gif-expert-enryu.netlify.app
